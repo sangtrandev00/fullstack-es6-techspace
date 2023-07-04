@@ -1,34 +1,43 @@
-# A Quick Introduction about this project (Techspace)
+# A Quick Introduction to this project (Techspace)
 Overview site page
 
 [![Frontend Site Techspace](./images/frontend-site-techspace.png)](#anchor-name)
 Overview Admin page
 
 [![Frontend Site Techspace](./images/admin-techspace.png)](#anchor-name)
-### Links website:
+### Links to websites:
 + Backend (render.com): https://fullstack-techspace-es6-api.onrender.com (api)
-+ Frontend (nelify.com): https://techspace-phoner.netlify.app/ (main domain)
-  + admin: https://techspace-phoner.netlify.app/admin/index.html
-  + site: https://techspace-phoner.netlify.app/site/index.html
++ Frontend (nelify.com): 
+  + --- (JAVASCRIPT VERSION) https://techspace-phoner.netlify.app/ (main domain)
+    admin: https://techspace-phoner.netlify.app/admin/index.html
+    site: https://techspace-phoner.netlify.app/site/index.html
+  + --- (TYPESCRIPT VERSION - SINGLE PAGE APPLICATION): 
+    site: https://techspace-ts-production.netlify.app/
+    admin: https://techspace-ts-production.netlify.app/admin
+
 
 ### Links Repo:
 + Backend Repository: https://github.com/sangtrandev00/techspace-fullstack-es6-api
-+ Frontend Repository: https://github.com/sangtrandev00/frontend-fullstack-es6-techspace-repo
-
++ Frontend Repository: 
+  + (JAVASCRIPT VERSION): https://github.com/sangtrandev00/frontend-fullstack-es6-techspace-repo
+  + (TYPESCRIPT VERSION - SPA ): https://github.com/sangtrandev00/typescript-webpack
 ### Technology in use: 
 
-- Frontend: Html, Css, Tailwind Css, Javascript (ECMAScript), Flowbite ui, Tailwind element.
-- Backend: Nodejs( Expressjs), Mongoodb (Mongoose), Restful API (JSON)
-- Library/API: Chartjs (for summarize data), Datatable, Giao Hang Nhanh API (Get location), Firebase (Google Authentication), SwiperJS (Slider), Node Mailer (to Reset Password), Ckeditor5
+Frontend: 
+  + (JAVASCRIPT VERSION): Html, CSS, Tailwind CSS, Javascript (ECMAScript), Flowbite ui, Tailwind element.
+  +  (TYPECRIPT VERSION): OOP principles, Single Page Application, More Form Validate
+Backend: Nodejs( Expressjs), MongoDB (Mongoose), Restful API (JSON)
+Library/API: Chartjs (for summarizing data), Datatable, Giao Hang Nhanh API (Get location), Firebase (Google Authentication), SwiperJS (Slider), Node Mailer (to Reset Password), Ckeditor5
 
 ### Description: 
-- Client: Website about selling phone with the functionality like: Search, filter (by categories, by price), sort products (by price descrease, increase, latest, oldest), list product, add to cart, create order, and some core of website,...
-- Admin (Restful API): CRUD categories, products, users. Track orders (view detail, update status). View report of all sold follow by months ( 12 months), all total sales, all views, all number of products. Summarize orders follow by their status. 
-- Authentication:  Login (JWT), Signup, Reset password, Google or Facebook Login.
+- Client: Website about selling phones with functionality like Search, filter (by categories, by price), sort products (by price decrease, increase, latest, oldest), list products, add to cart, create orders, and some core of the website,...
+- Admin (Restful API): CRUD categories, products, users. Track orders (view detail, update status). View report of all sold followed by months ( 12 months), all total sales, all views, and all number of products. Summarize orders follow by their status. 
+- Authentication:  Login (JWT), Signup, Reset password, Google Login.
 
-- If you want to look throughly for more detail just download the source and run for your own.
+- If you want to look thoroughly for more detail just download the source and run for your own.
+
 ### Restful API: 
-See more detail at 5 controller at my app.
+See more detail at 5 Controller in my app.
 
 + adminCategories.js
 + adminProducts.js
@@ -37,7 +46,7 @@ See more detail at 5 controller at my app.
 + shop.js
 + auth.js
 
-### How to use this project ?
+### How to use this project?
 1. Clone this repository
 2. + Frontend: `cd frontend` -> `yarn` -> `yarn dev` (development mode)
     + Backend: `cd backed` -> `yarn` -> `yarn start`
@@ -46,7 +55,7 @@ See more detail at 5 controller at my app.
 https://trannhatsang.com (sangtrandev00)
 
 
-### Any question: 
+### Any questions: 
 Contact me via Email: nhatsang0101@gmail.com
 
 
