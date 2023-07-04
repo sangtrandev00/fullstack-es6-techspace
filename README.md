@@ -9,11 +9,11 @@ Overview Admin page
 + Backend (render.com): https://fullstack-techspace-es6-api.onrender.com (api)
 + Frontend (nelify.com): 
   + --- (JAVASCRIPT VERSION) https://techspace-phoner.netlify.app/ (main domain)
-    admin: https://techspace-phoner.netlify.app/admin/index.html
-    site: https://techspace-phoner.netlify.app/site/index.html
+    + admin: https://techspace-phoner.netlify.app/admin/index.html
+    + site: https://techspace-phoner.netlify.app/site/index.html
   + --- (TYPESCRIPT VERSION - SINGLE PAGE APPLICATION): 
-    site: https://techspace-ts-production.netlify.app/
-    admin: https://techspace-ts-production.netlify.app/admin
+    + site: https://techspace-ts-production.netlify.app/
+    + admin: https://techspace-ts-production.netlify.app/admin
 
 
 ### Links Repo:
