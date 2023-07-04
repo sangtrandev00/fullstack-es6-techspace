@@ -23,10 +23,10 @@ Overview Admin page
   + (TYPESCRIPT VERSION - SPA ): https://github.com/sangtrandev00/typescript-webpack
 ### Technology in use: 
 
-Frontend: 
-  + (JAVASCRIPT VERSION): Html, CSS, Tailwind CSS, Javascript (ECMAScript), Flowbite ui, Tailwind element.
-  +  (TYPECRIPT VERSION): OOP principles, Single Page Application, More Form Validate
-Backend: Nodejs( Expressjs), MongoDB (Mongoose), Restful API (JSON)
++ Frontend: 
+  + (JAVASCRIPT VERSION): Html, CSS, Tailwind CSS, Javascript (ECMAScript), Flowbite UI, Tailwind element.
+  +  (TYPECRIPT VERSION): OOP principles, Single Page Application, More Form validation
++ Backend: Nodejs( Expressjs), MongoDB (Mongoose), Restful API (JSON)
 Library/API: Chartjs (for summarizing data), Datatable, Giao Hang Nhanh API (Get location), Firebase (Google Authentication), SwiperJS (Slider), Node Mailer (to Reset Password), Ckeditor5
 
 ### Description: 
