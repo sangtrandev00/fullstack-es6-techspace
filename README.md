@@ -1,7 +1,7 @@
 # A Quick Introduction to this project (Techspace)
 Overview site page
 
-[![Frontend Site Techspace](./images/best-seller-product-techspace.png.png)](#anchor-name)
+[![Frontend Site Techspace](./images/best-seller-product-techspace.png)](#anchor-name)
 Overview Admin page
 
 [![Frontend Site Techspace](./images/admin-techspace.png)](#anchor-name)
