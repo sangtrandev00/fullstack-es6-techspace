@@ -1,7 +1,7 @@
 # A Quick Introduction to this project (Techspace)
 Overview site page
 
-[![Frontend Site Techspace](./images/frontend-site-techspace.png)](#anchor-name)
+[![Frontend Site Techspace](./images/best-seller-product-techspace.png.png)](#anchor-name)
 Overview Admin page
 
 [![Frontend Site Techspace](./images/admin-techspace.png)](#anchor-name)
@@ -24,7 +24,7 @@ Overview Admin page
 ### Technology in use: 
 
 + Frontend: 
-  + (JAVASCRIPT VERSION): Html, CSS, Tailwind CSS, Javascript (ECMAScript), Flowbite UI, Tailwind element.
+  + (JAVASCRIPT VERSION): HTML, CSS, Tailwind CSS, Javascript (ECMAScript), Flowbite UI, Tailwind element.
   +  (TYPECRIPT VERSION): OOP principles, Single Page Application, More Form validation
 + Backend: Nodejs( Expressjs), MongoDB (Mongoose), Restful API (JSON)
 Library/API: Chartjs (for summarizing data), Datatable, Giao Hang Nhanh API (Get location), Firebase (Google Authentication), SwiperJS (Slider), Node Mailer (to Reset Password), Ckeditor5
@@ -37,7 +37,7 @@ Library/API: Chartjs (for summarizing data), Datatable, Giao Hang Nhanh API (Get
 - If you want to look thoroughly for more detail just download the source and run for your own.
 
 ### Restful API: 
-See more detail at 5 Controller in my app.
+See more details at 5 Controller in my app.
 
 + adminCategories.js
 + adminProducts.js
